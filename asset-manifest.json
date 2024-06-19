@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.2576685a.css",
+    "main.js": "/test/static/js/main.2b16cb70.js",
+    "static/js/453.56f46472.chunk.js": "/test/static/js/453.56f46472.chunk.js",
+    "static/media/remixicon.svg?t=1718271040674": "/test/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/boxicons.svg": "/test/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/test/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/test/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/boxicons.eot": "/test/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/test/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/test/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/test/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/bootstrap-icons.woff?": "/test/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/test/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/bootstrap-icons.woff2?": "/test/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/boxicons.woff2": "/test/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/test/index.html",
+    "main.2576685a.css.map": "/test/static/css/main.2576685a.css.map",
+    "main.2b16cb70.js.map": "/test/static/js/main.2b16cb70.js.map",
+    "453.56f46472.chunk.js.map": "/test/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2576685a.css",
+    "static/js/main.2b16cb70.js"
+  ]
+}
